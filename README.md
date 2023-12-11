@@ -1,0 +1,3 @@
+- 👋 Hi, We are @ShadowEntertainment!
+- 👀 We make realistic PC games...
+- 🌱 The dev has XP in UE5.
